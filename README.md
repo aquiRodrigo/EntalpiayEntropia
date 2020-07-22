@@ -1,2 +1,2 @@
 # EntalpiayEntropia
-Calculadora de entalpía y entropía para diferentes sistemas y con tablas de Cpm
+Calculadora de entalpía y entropía para diferentes sistemas termodinámicos con uso de tablas de Cpm.
